@@ -5,6 +5,7 @@ void setup() {
 }
 
 void loop() {
+  int aa = 0;
   int i;
   // put your main code here, to run repeatedly:
 }//カレントディレクトリ
